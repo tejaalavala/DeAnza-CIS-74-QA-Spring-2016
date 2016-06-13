@@ -6,4 +6,5 @@ This repository contains all my responses to the following that we were asked to
 - Bug reports
 - TDS/TPS documents
 - Midterm selenium solution
+- Selenium tests
 - Other miscellaneous work 
